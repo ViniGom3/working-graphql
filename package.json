@@ -1,0 +1,16 @@
+{
+  "name": "graphql-working",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.25.0",
+    "graphql": "^15.5.0"
+  }
+}
